@@ -4,16 +4,9 @@ module.exports = {
   //finds ALL users
   getUsers(req, res) {
     User.find()
-      .then(async (users) => {
-        const userObj = {
-          users,
-        };
-        return res.json(userObj);
-      })
-      .catch((err) => {
-        console.log(err);
-        return res.status(500).json(err);
-      });
+    .select('-__v')
+    .then((tags) => res.json(tags))
+    .catch((err) => res.status(500).json(err));
   },
   //creates user
   createUser(req, res) {
@@ -31,7 +24,7 @@ module.exports = {
   updateUserById(req, res) {
     User.findByIdAndUpdate(
       req.params.userId,
-      { $set: { userName: req.body.username } },
+      { $set: { username: req.body.username } },
       { runValidators: true, new: true }
     )
       .then((user) =>
