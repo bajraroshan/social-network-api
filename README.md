@@ -67,10 +67,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## DEMO
 
-![Demo 1](https://adelaide.bootcampcontent.com/the-university-of-adelaide/uadel-adel-fsf-pt-08-2021-u-c/-/raw/master/18-NoSQL/02-Homework/Assets/18-nosql-homework-demo-01.gif)
-![Demo 2](https://adelaide.bootcampcontent.com/the-university-of-adelaide/uadel-adel-fsf-pt-08-2021-u-c/-/raw/master/18-NoSQL/02-Homework/Assets/18-nosql-homework-demo-02.gif)
-![Demo 3](https://adelaide.bootcampcontent.com/the-university-of-adelaide/uadel-adel-fsf-pt-08-2021-u-c/-/raw/master/18-NoSQL/02-Homework/Assets/18-nosql-homework-demo-03.gif)
-![Demo 4](https://adelaide.bootcampcontent.com/the-university-of-adelaide/uadel-adel-fsf-pt-08-2021-u-c/-/raw/master/18-NoSQL/02-Homework/Assets/18-nosql-homework-demo-04.gif)
+![Demo 1](https://raw.githubusercontent.com/bajraroshan/social-network-api/master/images/18-nosql-homework-demo-01.gif)
+![Demo 2](https://raw.githubusercontent.com/bajraroshan/social-network-api/master/images/18-nosql-homework-demo-02.gif)
+![Demo 3](https://raw.githubusercontent.com/bajraroshan/social-network-api/master/images/18-nosql-homework-demo-03.gif)
+![Demo 4](https://raw.githubusercontent.com/bajraroshan/social-network-api/master/images/18-nosql-homework-demo-04.gif)
 
 ------------------------------------------------------------------------------
 
