@@ -1,19 +1,14 @@
 # Social Network API
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-
- ------------------------------------------------------------------------------
-
 ## Table of Contents
 - [Description](#description)
 - [Acceptance Criteria](#acceptance criteria)
 - [Built With](#installation)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Credits](#credits)
+- [Demo](#demo)
+- [Important Links](#important links)
 - [License](#license)
-- [Contribute](#contribute)
+
 
 ------------------------------------------------------------------------------
 
@@ -75,7 +70,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ------------------------------------------------------------------------------
 
 ## Important Links
-Walkthrough Video: https://bajraroshan.github.io/quizwiz/<br/>
+Walkthrough Video: https://youtu.be/bkNI_kvtgXs/<br/>
 Github Repositories: https://github.com/bajraroshan/social-network-api
 
 ------------------------------------------------------------------------------
@@ -103,4 +98,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
-
