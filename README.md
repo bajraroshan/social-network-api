@@ -43,7 +43,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Installation
 1. Clone the repo
    ```
-   git clone https://github.com/jakecolledge97/social-network-database.git
+   git clone https://github.com/bajraroshan/social-network-api.git
    ```
 2. Install NPM packages
    ```
